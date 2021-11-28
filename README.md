@@ -1,0 +1,4 @@
+- Hi, I'm Leonard Lucheck
+- I'm interested in computer programming, website development, and various other tech related projects
+- I'm currently looking more into crypto
+- Proud alumni of Lewis University with a degree in bacholor of science in computer science
